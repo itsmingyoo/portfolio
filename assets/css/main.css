@@ -2153,6 +2153,12 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
+			margin: 10px;
+		}
+
+		ul li i {
+			font-size: 4em;
+			flex-basis: 20%;
 		}
 
 		ul.alt {
