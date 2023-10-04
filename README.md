@@ -17,10 +17,12 @@
 
 ## BangerSounds Solo Python/React/Redux Project
 <a href="https://bangersounds.onrender.com/" target="_blank">BangerSounds Live onRender Link</a>
+<br>
 <a href="https://github.com/itsmingyoo/bangersounds" target="_blank">BangerSounds GitHub Link</a>
 <br>
 
 ## Edgy Group Python/React/Redux Project
 <a href="https://edgy.onrender.com/" target="_blank">Edgy Live onRender Link</a>
+<br>
 <a href="https://github.com/CodeJellee/Edgy" target="_blank">Edgy GitHub Link</a>
 <br>
