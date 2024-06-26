@@ -81,12 +81,18 @@ a {
 }
 
 .tm-brand-container-outer {
-  margin-top: -400px;
+  /* margin-top: -400px; */
+  margin-top: 0;
+}
+
+#tmWelcome .tm-brand-container-outer {
+  margin-top: 0 !important;
 }
 
 .tm-brand-container-inner {
   max-width: 580px;
   width: 100%;
+  z-index: 2;
 }
 
 .tm-brand-container {
@@ -112,7 +118,11 @@ a {
 
 .tm-welcome-container {
   min-height: 400px;
-  position: absolute;
+  /* position: absolute; */
+  position: relative;
+  margin-bottom: 400px;
+  z-index: 1;
+
   bottom: 0;
   left: 0;
   width: 100%;
@@ -137,9 +147,10 @@ a {
 
 .tm-welcome-right {
   color: white;
-  background-color: #986665;
+  /* background-color: #986665; */
+  background-color: transparent;
   padding: 80px 43px 70px;
-  height: 100%;
+  /* height: 100%; */
 }
 
 .tm-welcome-icon {
